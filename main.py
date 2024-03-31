@@ -1,4 +1,5 @@
 agenda=[]
+
 while True:
     print("""MENU DE OPCIONES:
           [1] Agregar contactos.
